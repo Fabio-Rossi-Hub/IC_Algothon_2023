@@ -2,7 +2,7 @@
 
 Winning submissions of Imperial College Algothon 2023
 
-This repository contains the code and data for the challenges we excelled in. Our team achieved 1st place in the Qube RT challenge and 2nd place in the BlackRock challenge, winning teh overall Algothon.
+This repository contains the code and data for the challenges we excelled in. Our team achieved 1st place in the Qube RT challenge and 2nd place in the BlackRock challenge, winning the overall Algothon.
 
 ## Challenges
 
@@ -29,7 +29,7 @@ In this challenge we had to find the portfolio that maximized the Sortino Ratio 
   - Returns of all stocks included in the SP500.
 
 - **Notebook:**
-  - `challenge_2_notebook.ipynb`: Python notebook for portfolio optimization.
+  - `to_be_pushed.ipynb`: Python notebook for portfolio optimization (still in local, soon online).
 
 ## Achievements
 
