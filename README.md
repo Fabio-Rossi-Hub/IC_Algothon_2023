@@ -29,7 +29,7 @@ In this challenge we had to find the portfolio that maximized the Sortino Ratio 
   - Returns of all stocks included in the SP500.
 
 - **Notebook:**
-  - `to_be_pushed.ipynb`: Python notebook for portfolio optimization (still in local, soon online).
+  - `blackrock.ipynb`: Python notebook for portfolio optimization.
 
 ## Achievements
 
